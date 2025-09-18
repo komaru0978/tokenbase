@@ -1,2 +1,3 @@
-# tokenbase
-Komaru
+{
+   "tokens": [ ]
+}
